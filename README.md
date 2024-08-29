@@ -26,7 +26,7 @@ Reg No: RA2311003010310
 Email ID: sr8707@srmist.edu.in
 
 Team Member 5:
-Name: ARUN BALAJI P R
+Name: ARUNBALAJI P R
 Reg No: RA2311003010310
 Email ID: ap7390@srmist.edu.in
 
