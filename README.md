@@ -32,4 +32,4 @@ Email ID: ap7390@srmist.edu.in
 
 Track Name: Generative AI
 
-Problem Statement: AI-Generated Data Privacy Policies for Small Businesses
+Problem Statement: Startups and small businesses struggle to create cost-effective, accurate, and up-to-date data privacy policies without legal expertise.
